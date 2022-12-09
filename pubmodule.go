@@ -1,9 +1,13 @@
 package pubmodule
 
 func Hello() string {
-  return "Hello, You!"
+	return "Hello, You!"
 }
 
 func Goodbye() string {
-  return "Goodbye for now!"
+	return "Goodbye for now!"
+}
+
+func GoodEvening() string {
+	return "Good evening sir!"
 }
